@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Practical AI Models: From Research to Production"
-date: 2025-01-01
+date: 2025-12-30
 categories: ai llm rag engineering
 ---
 
