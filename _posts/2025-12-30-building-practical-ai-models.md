@@ -94,7 +94,6 @@ A single model cannot reliably handle:
 
 ### Practical Multi-Model Architecture
 
-```mermaid
 flowchart LR
     U[User Input]
     P1[Pre-processing Models]
