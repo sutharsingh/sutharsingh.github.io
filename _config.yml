@@ -1,3 +1,6 @@
 title: Practical AI Engineering Notes
 description: Building domain-specific AI systems using fine-tuned models, RAG, and multi-model pipelines
 theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
